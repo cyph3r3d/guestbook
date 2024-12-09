@@ -1,5 +1,4 @@
-# Please choose from the below set of Docker commands to complete your Dockerfile:
-
+# Please choose from the below set of Docker commands to complete your Dockerfile
 # COPY
 # RUN
 # ADD
