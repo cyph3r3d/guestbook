@@ -1,1 +1,1 @@
-# guestbook
+# coding-project-template
